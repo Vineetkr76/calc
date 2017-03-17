@@ -1,5 +1,3 @@
 # Filename: Hello.ps1
-Write-Host
-Write-Host 'Hello World!'
-Write-Host "Good-bye World! `n"
+Write-Host 'Hello World! Script is Executed Now!'
 # end of script
